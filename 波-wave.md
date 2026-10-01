@@ -1,6 +1,6 @@
 # 波
-## エネルギー濃淡場と波
-
+**エネルギー濃淡場と波**
+<br>
 ## 波とは
 波は、「振動が空間を伝わっていく現象」です。<br>
 波には特有の現象・特性があります。<br>
@@ -21,3 +21,18 @@
 [Google Gemini](https://gemini.google.com/app?hl=ja)<br>
 <br>
 ## エネルギー濃淡場とは
+エネルギー密度が不均等に存在している空間です。<br>
+密度と濃淡の関係は次の通りです。<br>
+• 濃い： エネルギの密度が大きい<br>
+• 淡い： エネルギの密度が小さい<br>
+<br>
+### 波とエネルギー濃淡場<br>
+波の発生には４つの必要条件があります。<br>
+• 媒質(medium）： 波を伝える連続した物質があること<br>
+• 波源(wave source）： 波を作り出す振動源振動があること<br>
+• 慣性(inertia)： 媒質が運動を持続させる質量があること<br>
+• 復元力(restoring force)： 媒質の変位を元に戻そうと作用があること<br>
+<br>
+**引用**<br>
+金沢工業大学 - KIT物理ナビゲーション - [波の発生に必要な条件](https://w3e.kanazawa-it.ac.jp/math/physics/high-school_index/wave/henkan-tex.cgi?target=/math/physics/high-school_index/wave/condition_of_wave_generation.html)<br>
+
