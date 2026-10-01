@@ -1,2 +1,7 @@
-# 4DwaveCosmology
-4D Invariant Matrix Cosmology
+4DwaveCosmology
+# 4D Invariant Matrix Cosmology
+# ４次元不変母体宇宙論
+
+４次元空間に限界地を超える局地的な高エネルギが発生する
+高エネルギーはなだらかなにエネルギーを減らしながら広がっていく。
+そのながらかなエネルギーはエネルギー密度の濃淡が波のように広がる
