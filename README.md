@@ -5,3 +5,6 @@
 ４次元空間に限界地を超える局地的な高エネルギが発生する<br>
 高エネルギーはなだらかなにエネルギーを減らしながら広がってい<br>
 そのながらかなエネルギーはエネルギー密度の濃淡が波のように広がる<br>
+<br>
+A localized, high-energy phenomenon exceeding critical thresholds occurs within four-dimensional space.<br>
+This high energy expands while gradually diminishing, its gentle slope creating wave-like ripples of varying energy density.<br>
