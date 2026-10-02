@@ -1,14 +1,16 @@
-# 4次元不変母体宇宙論（4D Invariant Matrix Cosmology）
-## Google AI Gemini による代筆
-##
+# 4次元不変母体宇宙論
+## 4D Invariant Matrix Cosmology
+
+---
 
 > **Note**  
 > **著者アイデア:** 秋風  
-> **構成・数式構築:** Google AI Gemini  
+> **構成・数式構築:** Google Gemini  
 > ※ 本ドキュメントはアイデアの未検証のたたき台であり、統合理論に向けた概念モデルです。<br>
-> ※ 秋風の宇宙理論アイデアを「Google AI Gemini」と何度も対話して理論を固め、「Google AI Gemini」が方程式と論文を作成しました。<br>
+> ※ 秋風の宇宙理論アイデアを「Google Gemini」と何度も対話して理論を固め、「Google Gemini」が方程式と論文を作成しました。<br>
 
 ---
+<br>
 
 ## エネルギー濃淡場の動態および波動屈折による統合的時空モデル
 
