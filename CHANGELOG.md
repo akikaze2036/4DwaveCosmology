@@ -13,7 +13,7 @@
 ### Added
 
 - 「README.md」
-- 「論文-Paper.md」
+- このファイル
 
 ### Changed 
 
