@@ -4,19 +4,29 @@
 ### Title
 (Former: 4D Invariant Matrix Cosmology)
 
-> **Note**
->
-> **言語 / Language:**  日本語 / English
-> **ライセンス / License:** CC-BY 4.0
-> **バージョン / Version:** Ver 2.0  
-> **著作・発案 / Author - Idea:** 秋風 (Aki Kaze) / 秋 譲治 (Aki Jorge)
-> **著作・数式構築・翻訳 / Author - Formula Formulation - Translator:** Google Gemini
+> **Note**<br>
+> <br>
+> **言語 / Language:**  日本語 / English<br>
+> **ライセンス / License:** CC-BY 4.0 <br>
+> **バージョン / Version:** Ver 2.0  <br>
+> **著作・発案 / Author - Idea:** 秋風 (Aki Kaze) / 秋 譲治 (Aki Jorge) <br>
+> **著作・数式構築・翻訳 / Author - Formula Formulation - Translator:** Google Gemini <br>
 > ※ 本ドキュメントはアイデアの未検証のたたき台であり、統合理論に向けた概念モデルです。<br>
 >  This document is an unverified draft of ideas and a conceptual model toward a unified theory.<br>
 > ※ 「秋風」の宇宙理論アイデアを「Google Gemini」と何度も対話して理論を固め、「Google Gemini」が方程式と論文を作成しました。<br>
 >  [Akikaze] repeatedly discussed the cosmic theory idea with [Google Gemini] to solidify the framework, and [Google Gemini] generated the equations and documentation.<br>
 >
 
+## 1. 万有波動力学とは
+
+万有とは宇宙やほかの宇宙にあるすべての物質のこと。<br>
+万有はエネルギー密度がほかより高いところ。<br>
+万有は波の集まりである波紋を放出している。<br>
+万有のルールはすべて波の性質で説明できる。<br>
+「４つの力」は万有の波の性質でを説明できる。<br>
+<br>
+「宇宙はシンプルで単純な方程式」で成り立っている。<br>
+その考えから高校生でも理解できる理論を構築しました。<br>
 
 
 ## 1. はじめに：なぜ「前提」が必要なのか？
